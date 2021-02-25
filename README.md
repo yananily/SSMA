@@ -1,2 +1,2 @@
 # SSMA
-evaluation results
+The results of evaluations for SSMA 
