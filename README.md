@@ -46,3 +46,8 @@ The comparative results of  BSSMA and other GS optimizers in terms of selected g
 13.The top 5 genes selected by BSSMA.docx
   
 The descriptions of part of genes selected by BSSMA
+
+14.Impact of two parameter settings in fitness function on performance.docx
+
+We evaluated the impact of the Alpha and Beta in fitness function on the selected gene-length, error rate and computational time. 
+The results of the evaluation are shown in this file. 
